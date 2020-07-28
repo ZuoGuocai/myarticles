@@ -19,7 +19,7 @@
     <a href="readme_es.md">Español</a>
   </p>
 </p>
-<p align="center">Loved the project? Please consider <a href="https://www.paypal.me/anuraghazra">donating</a> to help it improve!
+<p align="center">Loved the project? Please consider <a href="https://www.payxxx.me/ZuoGuocai">donating</a> to help it improve!
 
 
 
