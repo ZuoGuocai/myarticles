@@ -47,3 +47,7 @@
 
 
 5. [把kibana装到grafana里要几步](https://mp.weixin.qq.com/s/p8fFFkVp6OUaoVtTbyO4DQ)
+
+
+6. [DevSecOps之路-谈谈pipeline数据脱敏](https://mp.weixin.qq.com/s/a4CkEt9bmSuCfxpWIPvjLg)
+
