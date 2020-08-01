@@ -52,16 +52,16 @@
 6. [DevSecOps之路-谈谈pipeline数据脱敏](https://mp.weixin.qq.com/s/a4CkEt9bmSuCfxpWIPvjLg)
 
 
-7.[会议是怎样炼成的](http://www.cnki.com.cn/Article/CJFDTotal-MISY201301022.htm)
+7. [会议是怎样炼成的](http://www.cnki.com.cn/Article/CJFDTotal-MISY201301022.htm)
 
 
-8.[如何做好u盘的安防工作](http://www.cnki.com.cn/Article/CJFDTOTAL-MISY201307024.htm)
+8. [如何做好u盘的安防工作](http://www.cnki.com.cn/Article/CJFDTOTAL-MISY201307024.htm)
 
 
-9.[一步拖放，轻松完成文件整理](http://www.cnki.com.cn/Article/CJFDTOTAL-MISY201209020.htm)
+9. [一步拖放，轻松完成文件整理](http://www.cnki.com.cn/Article/CJFDTOTAL-MISY201209020.htm)
 
 
-10.[如何打造秘书工具箱](http://www.cnki.com.cn/Article/CJFDTOTAL-MISY201212019.htm)
+10. [如何打造秘书工具箱](http://www.cnki.com.cn/Article/CJFDTOTAL-MISY201212019.htm)
 
 
 
