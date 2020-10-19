@@ -49,7 +49,7 @@
 5. [把kibana装到grafana里要几步](https://mp.weixin.qq.com/s/p8fFFkVp6OUaoVtTbyO4DQ)
 
 
-6. [DevSecOps之路-谈谈pipeline数据脱敏](https://mp.weixin.qq.com/s/a4CkEt9bmSuCfxpWIPvjLg)
+6. [DevSecOps之路-谈谈pipeline数据脱敏](https://mp.weixin.qq.com/s/Tz0wPN_ILfOu7kY5rIftrg)
 
 
 7. [会议是怎样炼成的](http://www.cnki.com.cn/Article/CJFDTotal-MISY201301022.htm)
