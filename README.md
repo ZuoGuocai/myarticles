@@ -64,7 +64,7 @@
 10. [如何打造秘书工具箱](http://www.cnki.com.cn/Article/CJFDTOTAL-MISY201212019.htm)
 
 
-11. [如何用Github轻松拉取谷歌容器镜像](https://mp.weixin.qq.com/s/Tz0wPN_ILfOu7kY5rIftrg）
+11. [如何用Github轻松拉取谷歌容器镜像](https://mp.weixin.qq.com/s/Tz0wPN_ILfOu7kY5rIftrg)
 
 
 
