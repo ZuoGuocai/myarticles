@@ -38,7 +38,7 @@
 | 8	| 如何做好u盘的安防工作|中国知网|[url][doc-08] |
 | 9	| 一步拖放，轻松完成文件整理|中国知网|[url][doc-09]|
 | 10	| 如何打造秘书工具箱|中国知网|[url][doc-010]|
-|11|如何用Github轻松拉取谷歌容器镜像|脚本之家｜[url][doc-011]｜
+|11|如何用Github轻松拉取谷歌容器镜像|脚本之家|[url][doc-011]|
 |12|平民架构的春天——UCloud数据方舟实战记|Ucloud云计算｜[url][doc-012]｜
 |13|如何用python“考上”研究生| 脚本之家｜[url][doc-013]｜
 |14|中国 DevOps 社区首届流水线大赛| 脚本之家｜[url][doc-014]｜
@@ -59,7 +59,7 @@
 [doc-13]: https://mp.weixin.qq.com/s/MspPPfumxkfA4So8tBRJJA
 [doc-14]: https://www.bilibili.com/video/av670051235
 
-
+<!-- 
 
 1. [运维的报表之路，用 node.js 轻松发送 grafana 报表](https://mp.weixin.qq.com/s/h_ylaMJ03ii5I2jUxssrZQ)
 
@@ -104,7 +104,7 @@
 
 14. [中国 DevOps 社区首届流水线大赛](https://www.bilibili.com/video/av670051235)
 
-
+--> 
 
 
 
