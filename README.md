@@ -49,7 +49,7 @@
 5. [把kibana装到grafana里要几步](https://mp.weixin.qq.com/s/p8fFFkVp6OUaoVtTbyO4DQ)
 
 
-6. [DevSecOps之路-谈谈pipeline数据脱敏](https://mp.weixin.qq.com/s/Tz0wPN_ILfOu7kY5rIftrg)
+6. [DevSecOps之路-谈谈pipeline数据脱敏](https://mp.weixin.qq.com/s/a4CkEt9bmSuCfxpWIPvjLg)
 
 
 7. [会议是怎样炼成的](http://www.cnki.com.cn/Article/CJFDTotal-MISY201301022.htm)
@@ -65,6 +65,15 @@
 
 
 11. [如何用Github轻松拉取谷歌容器镜像](https://mp.weixin.qq.com/s/Tz0wPN_ILfOu7kY5rIftrg)
+
+
+12. [平民架构的春天——UCloud数据方舟实战记](https://mp.weixin.qq.com/s/boxL243ACQaekU7ekjaM_Q)
+
+
+13. [如何用python“考上”研究生](https://mp.weixin.qq.com/s/MspPPfumxkfA4So8tBRJJA)
+
+
+14.[中国 DevOps 社区首届流水线大赛](https://www.bilibili.com/video/av670051235)
 
 
 
