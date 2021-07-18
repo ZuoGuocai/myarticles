@@ -37,6 +37,13 @@
 | 9	| 一步拖放，轻松完成文件整理	| 中国知网 | 
 | 10	| 如何打造秘书工具箱	| 中国知网   | 
 
+|    Project         |    Version      |     Docs    |   Description       |
+|----------------|------------------|--------------|-----------|
+| [iceworks]| [![iceworks-status]][iceworks-package] | [docs][iceworks-docs] | 基于 VS Code 的多端研发套件 |
+| [icejs] | [![icejs-status]][icejs-package] | [docs][icejs-docs] | 基于 React 的企业级研发框架 |
+| [icestark] | [![icestark-status]][icestark-package] | [docs][icestark-docs] | 面向大型应用的微前端解决方案 |
+| [icestore] | [![icestore-status]][icestore-package] | [docs][icestore-docs] | 简单友好的轻量级状态管理方案 |
+| [formily] | [![formily-status]][formily-package] | [docs][formily-docs] | 能力完备性能出众的表单解决方案 |
 
 
 
