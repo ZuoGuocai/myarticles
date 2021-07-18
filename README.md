@@ -40,10 +40,15 @@
 |    序号         |    文章标题     |     来源    | 链接 |
 |----------------|------------------|--------------|-----------|
 | 1| 运维的报表之路-用node.js轻松发送grafana报表	 | 高效运维公众号 | [docs][doc-01]|
-| [icejs] | [![icejs-status]][icejs-package] | [docs][icejs-docs] | 基于 React 的企业级研发框架 |
-| [icestark] | [![icestark-status]][icestark-package] | [docs][icestark-docs] | 面向大型应用的微前端解决方案 |
-| [icestore] | [![icestore-status]][icestore-package] | [docs][icestore-docs] | 简单友好的轻量级状态管理方案 |
-| [formily] | [![formily-status]][formily-package] | [docs][formily-docs] | 能力完备性能出众的表单解决方案 |
+| 2	| 如何快速上手CentOS8	| 脚本之家公众号 |
+| 3	| 两把利器，轻松做好十一期间服务器监控保障｜	脚本之家公众号| 
+| 4	| 如何优雅地用Python3发送Zabbix告警推送	｜ 脚本之家公众号| 
+| 5	| 把kibana装到grafana里要几步	｜ 脚本之家公众号| 
+| 6	| DevSecOps之路-谈谈pipeline数据脱敏 ｜	DevOps中国公众号 | 
+| 7	| 会议是怎样炼成的	｜中国知网 | 
+| 8	| 如何做好u盘的安防工作	｜ 中国知网 | 
+| 9	| 一步拖放，轻松完成文件整理	| 中国知网 | 
+| 10	| 如何打造秘书工具箱	| 中国知网   | 
 
 [doc-01]: https://mp.weixin.qq.com/s/h_ylaMJ03ii5I2jUxssrZQ
 
