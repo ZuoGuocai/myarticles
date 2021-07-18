@@ -73,7 +73,7 @@
 13. [如何用python“考上”研究生](https://mp.weixin.qq.com/s/MspPPfumxkfA4So8tBRJJA)
 
 
-14.[中国 DevOps 社区首届流水线大赛](https://www.bilibili.com/video/av670051235)
+14. [中国 DevOps 社区首届流水线大赛](https://www.bilibili.com/video/av670051235)
 
 
 
