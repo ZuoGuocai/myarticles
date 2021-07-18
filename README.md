@@ -29,14 +29,14 @@
 |----------------|------------------|--------------|-----------|
 | 1| 运维的报表之路-用node.js轻松发送grafana报表	 | 高效运维公众号 | [docs][doc-01] |
 | 2	| 如何快速上手CentOS8	| 脚本之家公众号 | [docs][doc-02] |
-| 3	| 两把利器轻松做好十一期间服务器监控保障|脚本之家公众号|[docs][doc-01] |
-| 4	| 如何优雅地用Python3发送Zabbix告警推送	｜ 脚本之家公众号|  [docs][doc-01] |
-| 5	| 把kibana装到grafana里要几步	｜ 脚本之家公众号|  [docs][doc-01]|
-| 6	| DevSecOps之路-谈谈pipeline数据脱敏 ｜	DevOps中国公众号 |  [docs][doc-01] |
-| 7	| 会议是怎样炼成的	｜中国知网 |  [docs][doc-01] |
-| 8	| 如何做好u盘的安防工作	｜ 中国知网 |  [docs][doc-01] |
-| 9	| 一步拖放，轻松完成文件整理	| 中国知网 |  [docs][doc-01] |
-| 10	| 如何打造秘书工具箱	| 中国知网   |  [docs][doc-01] |
+| 3	| 两把利器,轻松做好十一期间服务器监控保障|脚本之家公众号|[docs][doc-01] |
+| 4	| 如何优雅地用Python3发送Zabbix告警推送|脚本之家公众号|[docs][doc-01] |
+| 5	| 把kibana装到grafana里要几步|脚本之家公众号|[docs][doc-01]|
+| 6	| DevSecOps之路-谈谈pipeline数据脱敏|DevOps中国公众号|[docs][doc-01] |
+| 7	| 会议是怎样炼成的|中国知网|[docs][doc-01]|
+| 8	| 如何做好u盘的安防工作|中国知网|[docs][doc-01] |
+| 9	| 一步拖放，轻松完成文件整理|中国知网|[docs][doc-01]|
+| 10	| 如何打造秘书工具箱|中国知网|[docs][doc-01]|
 
 [doc-01]: https://mp.weixin.qq.com/s/h_ylaMJ03ii5I2jUxssrZQ
 [doc-02]: https://mp.weixin.qq.com/s/KQJ4vSHb5F02OI19_igmaw
