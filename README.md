@@ -41,7 +41,7 @@
 |11|如何用Github轻松拉取谷歌容器镜像|脚本之家|[url][doc-11]|
 |12|平民架构的春天——UCloud数据方舟实战记|Ucloud云计算|[url][doc-12]|
 |13|如何用python“考上”研究生|脚本之家|[url][doc-13]|
-|14|中国 DevOps 社区首届流水线大赛|脚本之家|[url][doc-14]|
+|14|中国 DevOps 社区首届流水线大赛|Bilibili|[url][doc-14]|
 
 
 [doc-01]: https://mp.weixin.qq.com/s/h_ylaMJ03ii5I2jUxssrZQ
